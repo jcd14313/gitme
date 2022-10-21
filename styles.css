@@ -10,10 +10,16 @@ header {
   background-color: red;
 }
 
-.menu {
+footer {
   background: red;
 }
 
-footer {
-  background: red;
+.slider {
+  display:  flex;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+
 }
