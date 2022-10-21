@@ -23,3 +23,10 @@ footer {
   align-items: center;
 
 }
+
+.contact-us {
+  background-color: red;
+}
+.contact-footer {
+  background-color: yellow;
+}
