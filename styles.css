@@ -9,3 +9,12 @@ h1 {
 header {
   background-color: red;
 }
+
+.slider {
+  display:  flex;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
